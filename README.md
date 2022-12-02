@@ -18,8 +18,8 @@ User -< Item
 Get the lab set up by running:
 
 ```console
-$ bundle install
-$ rails db:migrate db:seed
+bundle install
+rails db:migrate db:seed
 ```
 
 There is seed data in place so you can test your solution out in the browser or
